@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend development using Spring Boot and learning RAG and python
+🔭 I’m currently working on Backend development using Spring Boot and learning RAG and python  
 👯 I’m looking to collaborate on Java backend projects and real-world system design  
 🤝 I’m looking for help with advanced system design and microservices architecture  
 💬 Ask me about Java, Backend Development, REST APIs, and Competitive Programming  
