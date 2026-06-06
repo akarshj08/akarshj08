@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend development using Spring Boot and building scalable APIs  
+🔭 I’m currently working on Backend development using Spring Boot and learning RAG and python
 👯 I’m looking to collaborate on Java backend projects and real-world system design  
 🤝 I’m looking for help with advanced system design and microservices architecture  
 💬 Ask me about Java, Backend Development, REST APIs, and Competitive Programming  
@@ -10,7 +10,7 @@
 ## 🏆 Competitive Programming:
 💻 CodeChef: 4⭐ (Max Rating: 1803)  
 💻 Codeforces: Specialist (Max Rating: 1464)  
-💻 LeetCode: Knight (Max Rating: 1904)  
+💻 LeetCode: Knight (Max Rating: 1954)  
 🏅 Meta Hacker Cup 2025: Global Rank 3044 (Round 2), AIR 672 in Round 1  
 
 ---
@@ -37,7 +37,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarsh-jain-494097264/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akarshj08@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=flat&logo=google-chrome&logoColor=white)](https://codolio.com/profile/akarshj08) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/akarshjain741/) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MAFIA29)  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/akarshj810) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iPkMDzbo_uFY-a1YvCZ8aQOwzzwDYpho/view)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarsh-jain-494097264/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akarshj08@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=flat&logo=google-chrome&logoColor=white)](https://codolio.com/profile/akarshj08) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/akarshjain741/) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MAFIA29)  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/akarshj810) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1NKLPiYfU456xyxr9mPm5oS9vf_LX2Urg/view?usp=drive_link)    
 
 ---
 
